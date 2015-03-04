@@ -43,7 +43,8 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //GCM SENDER ID: avian-voice-87409
+        //Project: avian-voice-87409
+        //GCM SENDER ID: 279455620329
         //API KEY: AIzaSyC1UoUYgMJVN4teQPdxoCugAuHyE82wpsk
 
         context = getApplicationContext();
